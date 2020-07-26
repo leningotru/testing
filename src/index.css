@@ -1,0 +1,34 @@
+.main {
+  height: 100vh;
+  width: 100vw;
+  background-color: #302c2c;
+}
+
+.titleChat {
+  text-align: center;
+  width: 100%;
+  padding: 2%;
+  background-color: #000000;
+}
+
+.login {
+  margin: auto;
+  width: 75%;
+  padding: 2%;
+  background-color: #302c2c;
+}
+
+.inputMessage {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+}
+body {
+  background-color: #302c2c;
+}
+.ant-btn-primary {
+  color: #fff;
+  background: #767c80;
+  border-color: #ffffff;
+}
